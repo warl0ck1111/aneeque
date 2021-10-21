@@ -10,7 +10,7 @@ public class UserMgntApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(UserMgntApplication.class, args);
-        log.info("\n >>>>>>>>>>>>>>> UBA GROUP USER MANAGEMENT SERVICE APPLICATION STARTED <<<<<<<<<<<<<<<< \n");
+        log.info("\n\n ****************************  USER MANAGEMENT SERVICE APPLICATION STARTED **************************** \n");
 
     }
 
